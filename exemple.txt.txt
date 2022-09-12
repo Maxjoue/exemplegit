@@ -5,4 +5,8 @@ merde ct la
 c repartie
 encore
 jsp
+<<<<<<< HEAD
 message de la france.... non
+=======
+message pour la branch.... allo?
+>>>>>>> main
